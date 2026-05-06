@@ -69,7 +69,7 @@ Learn more about the competition:
 https://www.csbs.org/bankcasestudy
 ---
 ## File
-- - [View Full Case Study](report/Western Michigan University Case Study Paper Team 1.pdf)
+- [View Full Case Study]( https://github.com/hossainsowrob/CSBS-Community-Bank-Case-Study/blob/8a86a2deecef39ba0e7d3327170cbc80e17abaa9/report/Western%20Michigan%20University%20Case%20Study%20Paper%20Team%201.pdf)
 ---
 
 ## Summary
