@@ -70,7 +70,7 @@ https://www.csbs.org/bankcasestudy
 ---
 ## File
 
-- - [CSBS Case Study Report (PDF)](report/Western Michigan University Case Study Paper Team 1.pdf) 
+- [CSBS Case Study Report (PDF)](report/Western Michigan University Case Study Paper Team 1.pdf) 
 ---
 
 ## Summary
